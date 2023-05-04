@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Inderjeet Singh </h1>
-<h3 align="center"> Backend Web Developer using MERN Stack</h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=6000&size=23&pause=500&color=F7F7F6&center=true&vCenter=true&width=570&lines=Backend+Web+Developer+Using+Mern+Stack;Nice+to+e-meet+you+🤝!!" alt="Typing SVG" /></a></h3>
+
+
 <img algin="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 <p 
 align="left"> <img src="https://komarev.com/ghpvc/?username=inderjeets595&label=Profile%20views&color=0e75b6&style=flat" alt="Inderjeet" />
@@ -7,7 +9,6 @@ align="left"> <img src="https://komarev.com/ghpvc/?username=inderjeets595&label=
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=inderjeets595" alt="Inderjeet" /></a> </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F6&lines=I+am+a+Software+Engineer.;Nice+to+e-meet+you.;Scroll+till+the+end.)](https://git.io/typing-svg)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:inderjeets595@gmail.com)
