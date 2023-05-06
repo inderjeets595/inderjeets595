@@ -1,24 +1,18 @@
 <h1 align="center">Hi 👋, I'm Inderjeet Singh </h1>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=6000&size=23&pause=500&color=031D24&center=true&vCenter=true&width=570&lines=Backend+Web+Developer+Using+Mern+Stack;Nice+to+e-meet+you+🤝!!" alt="Typing SVG" /></a></h3>
 
-<div style="display:flex">
-  <p> <img algin="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"> </p>
-  
-  <p><h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=6000&size=23&pause=500&color=031D24&center=true&vCenter=true&width=570&lines=Backend+Web+Developer+Using+Mern+Stack;Nice+to+e-meet+you+🤝!!" alt="Typing SVG" /></a></h3></p>
-</div> 
-
-<p 
-align="left"> <img src="https://komarev.com/ghpvc/?username=inderjeets595&label=Profile%20views&color=0e75b6&style=flat" alt="Inderjeet" />
+<p> <img align="left" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
+</p>
+<p align="right">
+<h3 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=6000&size=23&pause=500&color=031D24&center=true&vCenter=true&width=570&lines=Backend+Web+Developer+Using+Mern+Stack;" alt="Typing SVG" /></a></h3>
 </p>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=inderjeets595&label=Profile%20views&color=0e75b6&style=flat" alt="Inderjeet" />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=inderjeets595" alt="Inderjeet" /></a> </p>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:inderjeets595@gmail.com)
 
-
-<p align="left"><img src="https://komarev.com/ghpvc/?username=BhavyaBhalla27" alt="BhavyaBhalla27"/></p>
 
 <img align="right" height="350px" alt="GIF" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" />
 
