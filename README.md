@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Inderjeet Singh </h1>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=6000&size=23&pause=500&color=F7F7F6&center=true&vCenter=true&width=570&lines=Backend+Web+Developer+Using+Mern+Stack;Nice+to+e-meet+you+🤝!!" alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=6000&size=23&pause=500&color=031D24&center=true&vCenter=true&width=570&lines=Backend+Web+Developer+Using+Mern+Stack;Nice+to+e-meet+you+🤝!!" alt="Typing SVG" /></a></h3>
 
 
 <img algin="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
