@@ -48,9 +48,18 @@ Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emoji
 
  </p>
 
-## Some Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inderjeets595&layout=compact&theme=prussian)](https://github.com/inderjeets595/github-readme-stats)
+<br><br>
+### Github Stats:
+<hr/>
+<br>
+<img align="right" width="270" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Turwash&layout=compact&theme=blue-green" />
 
-![inderjeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=inderjeets595&show_icons=true&theme=prussian)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Turwash&theme=tokyonight_duo&dates=28DDB7&fire=DD2727&sideLabels=DD7F19&ring=12B6DD&currStreakNum=DD2727&border=65EAD0B7)](https://git.io/streak-stats)
+
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=inderjeets595&theme=transparent&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) -->
+
+<!-- ![](https://activity-graph.herokuapp.com/graph?username=inderjeets595&theme=github)
+![1st](https://user-images.githubusercontent.com/121122397/216615077-3e6d2942-32f8-4c4f-a09e-dd3a4617e4a2.gif) -->
 
 
