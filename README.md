@@ -53,7 +53,7 @@ Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emoji
 <hr/>
 <br>
 <img align="right" width="270" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Turwash&layout=compact&theme=blue-green" />
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=inderjeets595&layout=compact&theme=blue-green" />
  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=inderjeets595&theme=transparent&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
