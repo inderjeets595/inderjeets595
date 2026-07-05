@@ -31,10 +31,10 @@
 
 ### 🚀 About Me
 
-Senior Full Stack Developer with **4+ years of hands-on experience** designing, engineering, and scaling robust web applications, enterprise microservices, and high-throughput RESTful APIs. Specialized in modern JavaScript/TypeScript ecosystems (**Node.js, NestJS, React.js, Next.js**) and cloud-native backend architectures.
+Senior Full Stack Developer with **8+ years of hands-on experience** designing, engineering, and scaling robust web applications, enterprise microservices, and high-throughput RESTful APIs. Specialized in modern JavaScript/TypeScript ecosystems (**Node.js, NestJS, React.js, Next.js**) and cloud-native backend architectures.
 
 - 💼 **Current Role:** Senior Full Stack Developer
-- 🎓 **Experience:** 4+ Years in Software Engineering & System Architecture
+- 🎓 **Experience:** 8+ Years in Software Engineering & System Architecture
 - ⚡ **Core Competencies:** Microservices, Distributed Systems, Database Optimization, Real-Time WebSockets, API Security
 - 🎯 **Current Focus:** Advanced Cloud-Native Microservices, AI Agentic Workflows, Next.js App Router
 - 🔭 **Open For:** Senior / Lead Full Stack Engineering Roles, Technical Consultancy, High-Impact Projects
