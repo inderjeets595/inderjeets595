@@ -12,7 +12,7 @@
 
   <!-- Status & Profile Badges -->
   <a href="https://github.com/inderjeets595">
-   <img src="https://komarev.com/ghpvc/?username=inderjeets595&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=inderjeets595&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/inderjeets595">
