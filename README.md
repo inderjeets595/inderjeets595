@@ -2,10 +2,7 @@
 
   <!-- Custom Glassmorphism Banner (1500x500 - 8+ YOE) -->
 <img src="https://raw.githubusercontent.com/inderjeets595/inderjeets595/main/banner.svg?v=1" width="100%" alt="Inderjeet Singh Banner" />
-  
   <br/>
-  <br/>
-
   <!-- Animated Typing Headline -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Senior+Full+Stack+Developer+(8%2B+Years);Node.js+%7C+NestJS+%7C+React+%7C+Next.js;Architecting+Scalable+Microservices+%26+APIs;Building+Modern%2C+High-Performance+Web+Apps" alt="Typing SVG" />
