@@ -1,10 +1,8 @@
 <div align="center">
 
   <!-- Premium Glassmorphism Banner (1500x500 - 8+ YOE) -->
-  <img src="./banner.svg" width="100%" alt="Inderjeet Singh - Senior Full Stack Developer Banner" />
-
-  <br/><br/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0,2,24,147,211,252&height=200&section=header&text=Inderjeet%20Singh&fontSize=40&animation=fadeIn&fontColor=ffffff&desc=Senior%20Full%20Stack%20Developer%20%7C%208%2B%20Years%20Exp&descSize=16" width="100%" alt="Header Banner" />
+  <br/>
   <!-- Animated Typing Headline -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Senior+Full+Stack+Developer+(8%2B+Years);Node.js+%7C+NestJS+%7C+React+%7C+Next.js;Architecting+Scalable+Microservices+%26+APIs;Building+Modern%2C+High-Performance+Web+Apps" alt="Typing SVG" />
