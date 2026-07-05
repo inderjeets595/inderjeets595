@@ -1,8 +1,7 @@
 <div align="center">
 
   <!-- Custom Glassmorphism Banner (1500x500 - 8+ YOE) -->
-  <img src="banner.svg" width="100%" alt="Inderjeet Singh - Senior Full Stack Developer Banner" />
-
+  <img src="https://raw.githubusercontent.com/inderjeets595/inderjeets595/main/banner.svg" width="100%" alt="Inderjeet Singh Banner" />
   <br/><br/>
 
   <!-- Animated Typing Headline -->
